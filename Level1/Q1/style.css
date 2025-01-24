@@ -1,0 +1,12 @@
+#box {
+    background-color: rgb(6, 8, 6);
+    color:rgb(139, 22, 22);
+    padding:20px;
+    width:200px;
+    height:100px;
+    text-align: centre;
+}
+
+* {
+    background-color: rgb(64, 158, 202);
+}
