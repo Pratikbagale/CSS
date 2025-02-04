@@ -1,0 +1,17 @@
+div {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+@media (width : 600px){
+    div{
+        background-color: gold;
+    }
+}
+
+@media (max-width: 600px){
+    div{
+        background-color: green;
+    }
+}
