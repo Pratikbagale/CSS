@@ -1,0 +1,31 @@
+{
+    diplay: flex;
+}
+
+{
+flex-direction: row;
+flex-direction: row-reverse;
+flex-direction: column;
+flex-direction: column-reverse;
+}
+
+{
+    justify-content: flex-start/flex-end/centre/space-evently
+
+    flex-wrap: nowrap/wrap/wrap-reverse
+
+    align-items: 
+
+    align-content: 
+}
+
+{
+    align-self: flex-end;
+
+    flex-grow:
+
+    flex-shrink: 
+}
+
+Q1. Which has higher proirity-align-items or align-self?
+-> align-self

@@ -1,0 +1,23 @@
+div {
+    height: 100px;
+    width: 200px;
+    text-align: center;
+    background-color: aquamarine;
+    border: 2px solid black;
+    transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: steps(3);
+    transition-delay: 2s;
+    /* transition: all 2s ease-in 1s; */
+}
+
+div:hover {
+    background-color: brown;
+    color: bisque;
+    font-size: 20px;
+}
+
+div:active {
+    background-color: pink;
+    color:black
+}
